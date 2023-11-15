@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.13)  14 NOV 2023 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.13)  14 NOV 2023 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,7 +212,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (5.76968pt too wide) in paragraph at lines 132--143
+Overfull \hbox (5.76968pt too wide) in paragraph at lines 135--148
 [][] 
  []
 
@@ -228,7 +228,7 @@ L3 programming layer <2023-08-29>
 Here is how much of TeX's memory you used:
  2606 strings out of 475248
  37682 string characters out of 5757812
- 1931785 words of memory out of 5000000
+ 1932785 words of memory out of 5000000
  24137 multiletter control sequences out of 15000+600000
  565269 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -242,9 +242,9 @@ pen/ec/dpi600\ecbx1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour
 ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk><C:/Users/chahi/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 78921 bytes).
+Output written on resume.pdf (1 page, 85790 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 248 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

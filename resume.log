@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.13)  21 NOV 2023 23:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.13)  21 NOV 2023 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -116,55 +116,22 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/carlito\carlito.sty
-Package: carlito 2022/10/05 (Bob Tennent) Supports Carlito fonts for LaTeX, pdf
-LaTeX, luaLaTeX and xeLaTeX.
+(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
-
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
-\XKV@depth=\count271
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
-Package: fontaxes 2020/07/21 v1.0e Font selection axes
-LaTeX Info: Redefining \upshape on input line 29.
-LaTeX Info: Redefining \itshape on input line 31.
-LaTeX Info: Redefining \slshape on input line 33.
-LaTeX Info: Redefining \swshape on input line 35.
-LaTeX Info: Redefining \scshape on input line 37.
-LaTeX Info: Redefining \sscshape on input line 39.
-LaTeX Info: Redefining \ulcshape on input line 41.
-LaTeX Info: Redefining \textsw on input line 47.
-LaTeX Info: Redefining \textssc on input line 48.
-LaTeX Info: Redefining \textulc on input line 49.
-)) (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count272
-\Gm@cntv=\count273
-\c@Gm@tempcnt=\count274
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
 \Gm@bindingoffset=\dimen150
 \Gm@wd@mp=\dimen151
 \Gm@odd@mp=\dimen152
@@ -173,41 +140,32 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen155
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks26
+\Gm@dimlist=\toks25
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-LaTeX Font Info:    Trying to load font information for T1+lcr on input line 74
-.
-LaTeX Font Info:    No file T1lcr.fd. on input line 74.
-
-LaTeX Font Warning: Font shape `T1/lcr/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 74.
-
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count275
+\l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box53
 ) (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-\c@mv@tabular=\count276
-\c@mv@boldtabular=\count277
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -243,60 +201,20 @@ LaTeX Font Info:    ... okay on input line 74.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sc' undefined
-(Font)              using `T1/lcr/m/n' instead on input line 82.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
 
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Font Warning: Font shape `T1/lcr/b/n' undefined
-(Font)              using `T1/lcr/m/n' instead on input line 88.
-
-LaTeX Font Info:    Trying to load font information for TS1+lcr on input line 9
-2.
-LaTeX Font Info:    No file TS1lcr.fd. on input line 92.
-
-LaTeX Font Warning: Font shape `TS1/lcr/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 92.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/it' undefined
-(Font)              using `T1/lcr/m/n' instead on input line 105.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
-(Font)              using `T1/lcr/m/it' instead on input line 116.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
-(Font)              using `T1/lcr/m/it' instead on input line 120.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
-(Font)              using `T1/lcr/m/it' instead on input line 124.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
-(Font)              using `T1/lcr/m/it' instead on input line 128.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
-(Font)              using `T1/lcr/m/it' instead on input line 132.
-
-
-LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
-(Font)              using `T1/lcr/m/it' instead on input line 136.
+Overfull \hbox (5.76968pt too wide) in paragraph at lines 137--150
+[][] 
+ []
 
 [1
 
@@ -306,27 +224,27 @@ LaTeX Font Warning: Font shape `T1/lcr/m/sl' undefined
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
  ) 
 Here is how much of TeX's memory you used:
- 3090 strings out of 475248
- 47597 string characters out of 5757812
+ 2606 strings out of 475248
+ 37682 string characters out of 5757812
  1932785 words of memory out of 5000000
- 24603 multiletter control sequences out of 15000+600000
- 561638 words of font info for 47 fonts, out of 8000000 for 9000
+ 24137 multiletter control sequences out of 15000+600000
+ 565269 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,456b,155s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+ 57i,7n,65p,456b,138s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl
 1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecrm2488.pk><C:/Users/chahi/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 41742 bytes).
+0\ecti1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\chahi\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk><C:/Users/chahi/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (1 page, 85776 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 248 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

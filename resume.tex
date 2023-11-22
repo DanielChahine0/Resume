@@ -5,6 +5,9 @@
 \usepackage{textcomp}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+% Remove or comment out the following line to use the Carlito font
+ \renewcommand{\rmdefault}{lcr}  % Remove or comment out this line
+
 \textheight=10in
 \pagestyle{empty}
 \raggedright
@@ -14,8 +17,8 @@
 %\renewcommand{\rmdefault}{lgrcmr}
 
 \def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
-
-% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%
+% DEFINITIONS FOR RESUME
 
 \newcommand{\area} [2] {
 	\vspace*{-9pt}
@@ -24,14 +27,15 @@
 	\end{verse}
 }
 
-\newcommand{\lineunder} {
+\newcommand{\lineunder}{
 	\vspace*{-8pt} \\
-	\hspace*{-18pt} \hrulefill \\
+	\hspace*{-18pt} \renewcommand{\hrulefill}{\rule{1.025\textwidth}{1.5pt}} \hrulefill \\
 }
 
 \newcommand{\header} [1] {
 	{\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
-	\vspace*{-6pt} \lineunder
+	\vspace*{-6pt} 
+	\lineunder
 }
 
 \newcommand{\employer} [3] {

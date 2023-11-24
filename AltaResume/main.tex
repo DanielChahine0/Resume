@@ -1,0 +1,246 @@
+%%%%%%%%%%%%%%%%%
+% This is a sample CV template created using altacv.cls
+% (v1.7, 9 Aug 2023) written by LianTze Lim (liantze@gmail.com), based on the
+% CV created by BusinessInsider at http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/?r=US&IR=T
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+%% AltaCV uses the fontawesome5 package.
+%% See http://texdoc.net/pkg/fontawesome5 for full list of symbols.
+
+% Change the page layout if you need to
+\geometry{left=1cm,right=1cm,top=1cm,bottom=1cm,columnsep=0.5cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+% WHEN COMPILING WITH XELATEX PLEASE USE
+% xelatex -shell-escape -output-driver="xdvipdfmx -z 0" mmayer.tex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[default]{lato}
+\fi
+
+% Change the colours if you want to
+\definecolor{VividPurple}{HTML}{000881}
+\definecolor{SlateGrey}{HTML}{A08600}
+\definecolor{LightGrey}{HTML}{000000}
+% \colorlet{name}{black}
+% \colorlet{tagline}{PastelRed}
+\colorlet{heading}{VividPurple}
+\colorlet{headingrule}{VividPurple}
+% \colorlet{subheading}{PastelRed}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change some fonts, if necessary
+% \renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+% \renewcommand{\personalinfofont}{\footnotesize}
+% \renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+% \renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\cvRatingMarker}{\faCircle}
+% ...and the markers for the date/location for \cvevent
+% \renewcommand{\cvDateMarker}{\faCalendar*[regular]}
+% \renewcommand{\cvLocationMarker}{\faMapMarker*}
+
+
+% If your CV/résumé is in a language other than English,
+% then you probably want to change these so that when you
+% copy-paste from the PDF or run pdftotext, the location
+% and date marker icons for \cvevent will paste as correct
+% translations. For example Spanish:
+% \renewcommand{\locationname}{Ubicación}
+% \renewcommand{\datename}{Fecha}
+
+
+%% Use (and optionally edit if necessary) this .tex if you
+%% want to use an author-year reference style like APA(6)
+%% for your publication list
+% \input{pubs-authoryear.tex}
+
+%% Use (and optionally edit if necessary) this .tex if you
+%% want an originally numerical reference style like IEEE
+%% for your publication list
+\input{pubs-num.tex}
+
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\begin{document}
+\name{Daniel Chahine}
+%% You can add multiple photos on the left or right
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+    \email{Chahinedaniel0@gmail.com}
+    \phone{(416) 209-2420}
+    \location{Toronto, CA}
+    \homepage{danielchahine0.github.io/Personal-Website}
+    \linkedin{danielchahine}
+    \github{DanielChahine0}
+    \leetcode{leetcode.com/Chahinedaniel}
+    
+  %% You can add your own arbitrary detail with
+  %% \printinfo{symbol}{detail}[optional hyperlink prefix]
+  % \printinfo{\faPaw}{Hey ho!}
+  %% Or you can declare your own field with
+  %% \NewInfoFiled{fieldname}{symbol}[optional hyperlink prefix] and use it:
+  % \NewInfoField{gitlab}{\faGitlab}[https://gitlab.com/]
+  % \gitlab{your_id}
+	%%
+  %% For services and platforms like Mastodon where there isn't a
+  %% straightforward relation between the user ID/nickname and the hyperlink,
+  %% you can use \printinfo directly e.g.
+  % \printinfo{\faMastodon}{@username@instace}[https://instance.url/@username]
+  %% But if you absolutely want to create new dedicated info fields for
+  %% such platforms, then use \NewInfoField* with a star:
+  % \NewInfoField*{mastodon}{\faMastodon}
+  %% then you can use \mastodon, with TWO arguments where the 2nd argument is
+  %% the full hyperlink.
+  % \mastodon{@username@instance}{https://instance.url/@username}
+}
+
+\makecvheader
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+\AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.5}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{2}
+
+\cvsection{Education}
+
+\cvevent{York University (2nd year)}{Honours Bachelor of Science in Computer Science}{Sept 2022 -- Apr 2026 (Expected)}{}
+\begin{itemize}
+\item \textbf{Major GPA:} 8.87/9
+\item \textbf{Cumulative GPA:} 8.1/9
+\item \textbf{Related Courses:} Advanced OOP, Software Tools, Theory of \\Computation, Linear Algebra, Discrete Math, Elementary Probability, Calculus I \& II.
+\end{itemize}
+
+% \divider
+\cvsection{Experience}
+
+\cvexperience{Self Employed}{Feb 2020 -- Sept 2023}{Toronto, ON}{Online \& In-Person Tutor}
+\begin{itemize}
+\item Offered personalized tutoring sessions in a variety of high school subjects including but not limited to \textbf{Computer Science, Calculus, Advanced Functions, Physics, Chemistry, Robotics, and French.}
+\item Actively promoted my services through online ads on Kijiji to attract and engage students.
+\end{itemize}
+
+\cvsection{Volunteer}
+
+\cvexperience{Jarvis Consulting Group}{April 2023 - Present}{Remote}{Student Ambassador}
+\begin{itemize}
+    \item Jarvis is an IT Company that provides ongoing partnerships across North America's top financing institutions, consulting firms, startups, and major technology
+\end{itemize}
+
+\cvexperience{SOYO Leader}{Sep 2018 - Present}{Toronto, ON}{Society of Orthodox Youth Organizations}
+\begin{itemize}
+    \item Served as a member of the Teen SOYO (Society of Orthodox Youth Organizations) in Montreal between 2018 and 2020, and continued in this role as a leader in Toronto since 2020.
+    \item Actively participated in event planning. Organized sleepovers. Adeptly managed groups of children
+\end{itemize}
+
+
+\cvexperience{Summer Camp Counselor}{August 2022 \& 2023}{Montreal, QC}{Camp Transfiguration}
+\begin{itemize}
+    \item Worked at Camp Transfiguration, a 2-week overnight summer camp in Quebec. 2 weeks during August 2022 \& 2 weeks during 2023. 
+    \item Led and facilitated activities for children ages 8-17, including sports, arts and crafts, and team-building exercises. 
+    \item Provided emotional support and guidance to campers, ensuring a positive experience. Maintained accurate camper records and communicated effectively with parents and guardians
+\end{itemize}
+
+
+% Switch to the right
+\switchcolumn
+
+
+\cvsection{Projeects}
+
+\cvexperience{\textbf{Mind Maze} | Python, Pygame}{Oct 2023}{}{}
+\begin{itemize}
+    \item An educational Game that transforms learning into a journey 
+    \item Merges education and entertainment while offering a program where players tackle challenges in Math, Logic, \& Computer Science
+\end{itemize}
+
+\cvexperience{\textbf{Platformer} | Python, Pygame}{July 2023}{}{}
+\begin{itemize}
+    \item A 2D role-playing game with the goal of exploring various levels, collecting fruits and avoiding traps
+    \item Implements different characters, challenging worlds, a variety of backgrounds, animations, and a scoring mechanism 
+\end{itemize}
+
+\cvexperience{\textbf{UNHack 2023} | HTML, CSS, Javascript}{Oct 2023}{}{}
+\begin{itemize}
+    \item Helped with creating a website presenting an AI project to solve educational problems
+    \item The proposed solution includes an AI teaching assistant and AI generation of personalized quizzes and assessments with different learning styles
+\end{itemize}
+
+\cvexperience{\textbf{Flappy Bird} |Python, Pygame}{Apr 2023}{}{}
+\begin{itemize}
+    \item Recreated Flappy Bird with different themes and sound effects using Python
+\end{itemize}
+
+
+\cvexperience{\textbf{Snake} | Python, Pygame}{Feb 2023}{}{}
+\begin{itemize}
+    \item Recreated the Snake Game with new various themes and visuals
+\end{itemize}
+
+\cvexperience{\textbf{Pong} | Python, Pygame}{May 2023}{}{}
+\begin{itemize}
+    \item Created the Pong Game using Python and allowing multiplayer players to play the game at once.
+\end{itemize}
+
+
+\cvsection{Skills \& Rewards}
+\textbf{Programming Languages}\\
+\cvskill{Python - Java - C}{5}
+\cvskill{Bash - C\# - C++}{4}
+\cvskill{HTML - CSS - JavaScript - Latex}{3}
+\divider
+\\
+\textbf{Trilingual:}
+\cvtag{English}
+\cvtag{French}
+\cvtag{Arabic}
+\\
+\divider
+\\
+\textbf{Other Skills}:
+\cvtag{Game Development}
+\cvtag{Creativity}\\
+\cvtag{Project Management}
+\cvtag{Teaching \& Mentoring}\\
+\cvtag{Marketing \& Promotion}
+\cvtag{Adaptability}\\
+\divider
+\\ \textbf{Rewards:} \\
+\cvtag{Annual Lassonde Scholarship 2022 \& 2023 (4000\$x2)}\\
+\cvtag{St George Orthodox Scholarship 2022 \& 2023 (1000\$x2)}
+
+\end{paracol}
+
+\end{document}

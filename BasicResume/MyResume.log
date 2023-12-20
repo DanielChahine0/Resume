@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.13)  20 DEC 2023 11:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.13)  20 DEC 2023 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,74 +354,7 @@ Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
-))) (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip51
-For additional information on amsmath, use the `?' option.
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen154
-))
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen155
-)
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count276
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count277
-\leftroot@=\count278
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count279
-\DOTSCASE@=\count280
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen156
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count281
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count282
-\dotsspace@=\muskip17
-\c@parentequation=\count283
-\dspbrk@lvl=\count284
-\tag@help=\toks24
-\row@=\count285
-\column@=\count286
-\maxfields@=\count287
-\andhelp@=\toks25
-\eqnshift@=\dimen157
-\alignsep@=\dimen158
-\tagshift@=\dimen159
-\tagwidth@=\dimen160
-\totwidth@=\dimen161
-\lineht@=\dimen162
-\@envbody=\toks26
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks27
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
+))) (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
@@ -434,20 +367,20 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 .tex)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip54
-\RaggedLeftLeftskip=\skip55
-\RaggedRightLeftskip=\skip56
-\CenteringRightskip=\skip57
-\RaggedLeftRightskip=\skip58
-\RaggedRightRightskip=\skip59
-\CenteringParfillskip=\skip60
-\RaggedLeftParfillskip=\skip61
-\RaggedRightParfillskip=\skip62
-\JustifyingParfillskip=\skip63
-\CenteringParindent=\skip64
-\RaggedLeftParindent=\skip65
-\RaggedRightParindent=\skip66
-\JustifyingParindent=\skip67
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
 sty
@@ -456,13 +389,13 @@ sty
 y
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen163
-\pgfutil@tempdimb=\dimen164
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen154
+\pgfutil@tempdimb=\dimen155
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
-\pgfutil@abb=\box54
+\pgfutil@abb=\box52
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
@@ -488,8 +421,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen165
-\Gin@req@width=\dimen166
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
 sty
@@ -499,33 +432,33 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 libraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks31
+\pgfkeys@tmptoks=\toks26
 ))
-\pgf@x=\dimen167
-\pgf@y=\dimen168
-\pgf@xa=\dimen169
-\pgf@ya=\dimen170
-\pgf@xb=\dimen171
-\pgf@yb=\dimen172
-\pgf@xc=\dimen173
-\pgf@yc=\dimen174
-\pgf@xd=\dimen175
-\pgf@yd=\dimen176
+\pgf@x=\dimen158
+\pgf@y=\dimen159
+\pgf@xa=\dimen160
+\pgf@ya=\dimen161
+\pgf@xb=\dimen162
+\pgf@yb=\dimen163
+\pgf@xc=\dimen164
+\pgf@yc=\dimen165
+\pgf@xd=\dimen166
+\pgf@yd=\dimen167
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count288
-\c@pgf@countb=\count289
-\c@pgf@countc=\count290
-\c@pgf@countd=\count291
-\t@pgf@toka=\toks32
-\t@pgf@tokb=\toks33
-\t@pgf@tokc=\toks34
-\pgf@sys@id@count=\count292
+\c@pgf@counta=\count276
+\c@pgf@countb=\count277
+\c@pgf@countc=\count278
+\c@pgf@countd=\count279
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count280
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -544,8 +477,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count293
-\pgfsyssoftpath@bigbuffer@items=\count294
+\pgfsyssoftpath@smallbuffer@items=\count281
+\pgfsyssoftpath@bigbuffer@items=\count282
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
@@ -561,12 +494,12 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 code.tex)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen177
-\pgfmath@count=\count295
-\pgfmath@box=\box55
-\pgfmath@toks=\toks35
-\pgfmath@stack@operand=\toks36
-\pgfmath@stack@operation=\toks37
+\pgfmath@dimen=\dimen168
+\pgfmath@count=\count283
+\pgfmath@box=\box53
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex)
@@ -590,59 +523,59 @@ ions.integerarithmetics.code.tex)
 code.tex)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count296
+\c@pgfmathroundto@lastzeros=\count284
 ))
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen178
-\pgf@picmaxx=\dimen179
-\pgf@picminy=\dimen180
-\pgf@picmaxy=\dimen181
-\pgf@pathminx=\dimen182
-\pgf@pathmaxx=\dimen183
-\pgf@pathminy=\dimen184
-\pgf@pathmaxy=\dimen185
-\pgf@xx=\dimen186
-\pgf@xy=\dimen187
-\pgf@yx=\dimen188
-\pgf@yy=\dimen189
-\pgf@zx=\dimen190
-\pgf@zy=\dimen191
+\pgf@picminx=\dimen169
+\pgf@picmaxx=\dimen170
+\pgf@picminy=\dimen171
+\pgf@picmaxy=\dimen172
+\pgf@pathminx=\dimen173
+\pgf@pathmaxx=\dimen174
+\pgf@pathminy=\dimen175
+\pgf@pathmaxy=\dimen176
+\pgf@xx=\dimen177
+\pgf@xy=\dimen178
+\pgf@yx=\dimen179
+\pgf@yy=\dimen180
+\pgf@zx=\dimen181
+\pgf@zy=\dimen182
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen192
-\pgf@path@lasty=\dimen193
+\pgf@path@lastx=\dimen183
+\pgf@path@lasty=\dimen184
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen194
-\pgf@shorten@start@additional=\dimen195
+\pgf@shorten@end@additional=\dimen185
+\pgf@shorten@start@additional=\dimen186
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box56
-\pgf@hbox=\box57
-\pgf@layerbox@main=\box58
-\pgf@picture@serial@count=\count297
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count285
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen196
+\pgflinewidth=\dimen187
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen197
-\pgf@pt@y=\dimen198
-\pgf@pt@temp=\dimen199
+\pgf@pt@x=\dimen188
+\pgf@pt@y=\dimen189
+\pgf@pt@temp=\dimen190
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
@@ -659,14 +592,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen256
+\pgfarrowsep=\dimen191
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen257
-\pgf@sys@shading@range@num=\count298
-\pgf@shadingcount=\count299
+\pgf@max=\dimen192
+\pgf@sys@shading@range@num=\count286
+\pgf@shadingcount=\count287
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
@@ -675,7 +608,7 @@ File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box59
+\pgfexternal@startupbox=\box57
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 elayers.code.tex
@@ -696,7 +629,7 @@ File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 shapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box60
+\pgfnodeparttextbox=\box58
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 plot.code.tex
@@ -705,8 +638,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen258
-\pgf@nodesepend=\dimen259
+\pgf@nodesepstart=\dimen193
+\pgf@nodesepend=\dimen194
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
@@ -724,10 +657,10 @@ ty
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
 code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen260
-\pgffor@skip=\dimen261
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
+\pgffor@iter=\dimen195
+\pgffor@skip=\dimen196
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
 ))
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -736,34 +669,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count300
-\pgfplotmarksize=\dimen262
+\pgf@plot@mark@count=\count288
+\pgfplotmarksize=\dimen197
 )
-\tikz@lastx=\dimen263
-\tikz@lasty=\dimen264
-\tikz@lastxsaved=\dimen265
-\tikz@lastysaved=\dimen266
-\tikz@lastmovetox=\dimen267
-\tikz@lastmovetoy=\dimen268
-\tikzleveldistance=\dimen269
-\tikzsiblingdistance=\dimen270
-\tikz@figbox=\box61
-\tikz@figbox@bg=\box62
-\tikz@tempbox=\box63
-\tikz@tempbox@bg=\box64
-\tikztreelevel=\count301
-\tikznumberofchildren=\count302
-\tikznumberofcurrentchild=\count303
-\tikz@fig@count=\count304
+\tikz@lastx=\dimen198
+\tikz@lasty=\dimen199
+\tikz@lastxsaved=\dimen256
+\tikz@lastysaved=\dimen257
+\tikz@lastmovetox=\dimen258
+\tikz@lastmovetoy=\dimen259
+\tikzleveldistance=\dimen260
+\tikzsiblingdistance=\dimen261
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count289
+\tikznumberofchildren=\count290
+\tikznumberofcurrentchild=\count291
+\tikz@fig@count=\count292
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count305
-\pgfmatrixcurrentcolumn=\count306
-\pgf@matrix@numberofcolumns=\count307
+\pgfmatrixcurrentrow=\count293
+\pgfmatrixcurrentcolumn=\count294
+\pgf@matrix@numberofcolumns=\count295
 )
-\tikz@expandcount=\count308
+\tikz@expandcount=\count296
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
@@ -776,14 +709,14 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen271
+\arrowsize=\dimen262
 ))
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
 Package: tcolorbox 2023/09/26 version 6.1.0 text color boxes
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks40
-\verbatim@line=\toks41
+\every@verbatim=\toks35
+\verbatim@line=\toks36
 \verbatim@in@stream=\read4
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
@@ -792,18 +725,20 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
 ty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-\tcb@titlebox=\box65
-\tcb@upperbox=\box66
-\tcb@lowerbox=\box67
-\tcb@phantombox=\box68
-\c@tcbbreakpart=\count309
-\c@tcblayer=\count310
-\c@tcolorbox@number=\count311
+)
+\@envbody=\toks37
+)
+\tcb@titlebox=\box63
+\tcb@upperbox=\box64
+\tcb@lowerbox=\box65
+\tcb@phantombox=\box66
+\c@tcbbreakpart=\count297
+\c@tcblayer=\count298
+\c@tcolorbox@number=\count299
+\tcb@temp=\box67
+\tcb@temp=\box68
 \tcb@temp=\box69
 \tcb@temp=\box70
-\tcb@temp=\box71
-\tcb@temp=\box72
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
 .tex
@@ -820,7 +755,7 @@ Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
 l.image.code.tex
 File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
-\l__tikzfill_img_box=\box73
+\l__tikzfill_img_box=\box71
 ))
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
 w.code.tex
@@ -828,12 +763,12 @@ Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.1.0'
 )))
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip68
-\enit@outerparindent=\dimen272
-\enit@toks=\toks42
-\enit@inbox=\box74
-\enit@count@id=\count312
-\enitdp@description=\count313
+\labelindent=\skip65
+\enit@outerparindent=\dimen263
+\enit@toks=\toks38
+\enit@inbox=\box72
+\enit@count@id=\count300
+\enitdp@description=\count301
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
@@ -841,7 +776,7 @@ Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
 ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box75
+\collectedbox=\box73
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
@@ -852,16 +787,16 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks43
-\XKV@tempa@toks=\toks44
+\XKV@toks=\toks39
+\XKV@tempa@toks=\toks40
 )
-\XKV@depth=\count314
+\XKV@depth=\count302
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-\tc@llx=\dimen273
-\tc@lly=\dimen274
-\tc@urx=\dimen275
-\tc@ury=\dimen276
+\tc@llx=\dimen264
+\tc@lly=\dimen265
+\tc@urx=\dimen266
+\tc@ury=\dimen267
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
@@ -873,77 +808,77 @@ Package: dashrule 2013/03/28 v1.3 Dashed rules
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )
-\c@hdr@segments=\count315
+\c@hdr@segments=\count303
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip69
-\multirow@cntb=\count316
-\multirow@dima=\skip70
-\bigstrutjot=\dimen277
+\multirow@colwidth=\skip66
+\multirow@cntb=\count304
+\multirow@dima=\skip67
+\bigstrutjot=\dimen268
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen278
-\ar@mcellbox=\box76
-\extrarowheight=\dimen279
-\NC@list=\toks45
-\extratabsurround=\skip71
-\backup@length=\skip72
-\ar@cellbox=\box77
+\col@sep=\dimen269
+\ar@mcellbox=\box74
+\extrarowheight=\dimen270
+\NC@list=\toks41
+\extratabsurround=\skip68
+\backup@length=\skip69
+\ar@cellbox=\box75
 )
-\TX@col@width=\dimen280
-\TX@old@table=\dimen281
-\TX@old@col=\dimen282
-\TX@target=\dimen283
-\TX@delta=\dimen284
-\TX@cols=\count317
-\TX@ftn=\toks46
+\TX@col@width=\dimen271
+\TX@old@table=\dimen272
+\TX@old@col=\dimen273
+\TX@target=\dimen274
+\TX@delta=\dimen275
+\TX@cols=\count305
+\TX@ftn=\toks42
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
 ty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count318
-\cp@tempcnt=\count319
+\c@cp@cntr=\count306
+\cp@tempcnt=\count307
 )
-\altacv@photos@width=\skip73
-\altacv@photo@diam@left=\skip74
-\altacv@photo@diam@right=\skip75
+\altacv@photos@width=\skip70
+\altacv@photo@diam@left=\skip71
+\altacv@photo@diam@right=\skip72
  (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks47
-\AP@partial=\box78
-\AP@footins=\box79
+\AP@output=\toks43
+\AP@partial=\box76
+\AP@footins=\box77
 )) (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
 Package: paracol 2018/12/31 v1.35 
-\pcol@currcol=\count320
-\pcol@nextcol=\count321
-\pcol@ncol=\count322
-\pcol@ncolleft=\count323
-\pcol@page=\count324
-\pcol@basepage=\count325
-\pcol@toppage=\count326
-\pcol@footnotebase=\count327
-\pcol@nfootnotes=\count328
-\pcol@mcid=\count329
-\pcol@prevdepth=\dimen285
-\pcol@colht=\dimen286
-\pcol@textfloatsep=\dimen287
-\pcol@lrmargin=\dimen288
-\pagerim=\dimen289
-\pcol@topskip=\skip76
-\belowfootnoteskip=\skip77
-\pcol@topfnotes=\box80
-\pcol@prespan=\box81
-\pcol@rightpage=\box82
-\pcol@colorstack@saved=\box83
-\pcol@tempboxa=\box84
-\pcol@tempboxb=\box85
+\pcol@currcol=\count308
+\pcol@nextcol=\count309
+\pcol@ncol=\count310
+\pcol@ncolleft=\count311
+\pcol@page=\count312
+\pcol@basepage=\count313
+\pcol@toppage=\count314
+\pcol@footnotebase=\count315
+\pcol@nfootnotes=\count316
+\pcol@mcid=\count317
+\pcol@prevdepth=\dimen276
+\pcol@colht=\dimen277
+\pcol@textfloatsep=\dimen278
+\pcol@lrmargin=\dimen279
+\pagerim=\dimen280
+\pcol@topskip=\skip73
+\belowfootnoteskip=\skip74
+\pcol@topfnotes=\box78
+\pcol@prespan=\box79
+\pcol@rightpage=\box80
+\pcol@colorstack@saved=\box81
+\pcol@tempboxa=\box82
+\pcol@tempboxb=\box83
 \pcol@colorins=\insert252
-\pcol@everyvbox=\toks48
+\pcol@everyvbox=\toks44
 ) (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/lato\lato.sty
 Package: lato 2019/06/20 Style file for Lato.
 
@@ -965,68 +900,68 @@ Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count330
+\lrq@indent=\count318
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count331
-\c@listtotal=\count332
-\c@listcount=\count333
-\c@liststart=\count334
-\c@liststop=\count335
-\c@citecount=\count336
-\c@citetotal=\count337
-\c@multicitecount=\count338
-\c@multicitetotal=\count339
-\c@instcount=\count340
-\c@maxnames=\count341
-\c@minnames=\count342
-\c@maxitems=\count343
-\c@minitems=\count344
-\c@citecounter=\count345
-\c@maxcitecounter=\count346
-\c@savedcitecounter=\count347
-\c@uniquelist=\count348
-\c@uniquename=\count349
-\c@refsection=\count350
-\c@refsegment=\count351
-\c@maxextratitle=\count352
-\c@maxextratitleyear=\count353
-\c@maxextraname=\count354
-\c@maxextradate=\count355
-\c@maxextraalpha=\count356
-\c@abbrvpenalty=\count357
-\c@highnamepenalty=\count358
-\c@lownamepenalty=\count359
-\c@maxparens=\count360
-\c@parenlevel=\count361
-\blx@tempcnta=\count362
-\blx@tempcntb=\count363
-\blx@tempcntc=\count364
-\c@blx@maxsection=\count365
-\blx@maxsegment@0=\count366
-\blx@notetype=\count367
-\blx@parenlevel@text=\count368
-\blx@parenlevel@foot=\count369
-\blx@sectionciteorder@0=\count370
-\blx@sectionciteorderinternal@0=\count371
-\blx@entrysetcounter=\count372
-\blx@biblioinstance=\count373
-\labelnumberwidth=\skip78
-\labelalphawidth=\skip79
-\biblabelsep=\skip80
-\bibitemsep=\skip81
-\bibnamesep=\skip82
-\bibinitsep=\skip83
-\bibparsep=\skip84
-\bibhang=\skip85
+\c@tabx@nest=\count319
+\c@listtotal=\count320
+\c@listcount=\count321
+\c@liststart=\count322
+\c@liststop=\count323
+\c@citecount=\count324
+\c@citetotal=\count325
+\c@multicitecount=\count326
+\c@multicitetotal=\count327
+\c@instcount=\count328
+\c@maxnames=\count329
+\c@minnames=\count330
+\c@maxitems=\count331
+\c@minitems=\count332
+\c@citecounter=\count333
+\c@maxcitecounter=\count334
+\c@savedcitecounter=\count335
+\c@uniquelist=\count336
+\c@uniquename=\count337
+\c@refsection=\count338
+\c@refsegment=\count339
+\c@maxextratitle=\count340
+\c@maxextratitleyear=\count341
+\c@maxextraname=\count342
+\c@maxextradate=\count343
+\c@maxextraalpha=\count344
+\c@abbrvpenalty=\count345
+\c@highnamepenalty=\count346
+\c@lownamepenalty=\count347
+\c@maxparens=\count348
+\c@parenlevel=\count349
+\blx@tempcnta=\count350
+\blx@tempcntb=\count351
+\blx@tempcntc=\count352
+\c@blx@maxsection=\count353
+\blx@maxsegment@0=\count354
+\blx@notetype=\count355
+\blx@parenlevel@text=\count356
+\blx@parenlevel@foot=\count357
+\blx@sectionciteorder@0=\count358
+\blx@sectionciteorderinternal@0=\count359
+\blx@entrysetcounter=\count360
+\blx@biblioinstance=\count361
+\labelnumberwidth=\skip75
+\labelalphawidth=\skip76
+\biblabelsep=\skip77
+\bibitemsep=\skip78
+\bibnamesep=\skip79
+\bibinitsep=\skip80
+\bibparsep=\skip81
+\bibhang=\skip82
 \blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language79
-\c@mincomprange=\count374
-\c@maxcomprange=\count375
-\c@mincompwidth=\count376
+\c@mincomprange=\count362
+\c@maxcomprange=\count363
+\c@mincompwidth=\count364
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1037,88 +972,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count377
-\c@savedafterword=\count378
-\c@annotator=\count379
-\c@savedannotator=\count380
-\c@author=\count381
-\c@savedauthor=\count382
-\c@bookauthor=\count383
-\c@savedbookauthor=\count384
-\c@commentator=\count385
-\c@savedcommentator=\count386
-\c@editor=\count387
-\c@savededitor=\count388
-\c@editora=\count389
-\c@savededitora=\count390
-\c@editorb=\count391
-\c@savededitorb=\count392
-\c@editorc=\count393
-\c@savededitorc=\count394
-\c@foreword=\count395
-\c@savedforeword=\count396
-\c@holder=\count397
-\c@savedholder=\count398
-\c@introduction=\count399
-\c@savedintroduction=\count400
-\c@namea=\count401
-\c@savednamea=\count402
-\c@nameb=\count403
-\c@savednameb=\count404
-\c@namec=\count405
-\c@savednamec=\count406
-\c@translator=\count407
-\c@savedtranslator=\count408
-\c@shortauthor=\count409
-\c@savedshortauthor=\count410
-\c@shorteditor=\count411
-\c@savedshorteditor=\count412
-\c@labelname=\count413
-\c@savedlabelname=\count414
-\c@institution=\count415
-\c@savedinstitution=\count416
-\c@lista=\count417
-\c@savedlista=\count418
-\c@listb=\count419
-\c@savedlistb=\count420
-\c@listc=\count421
-\c@savedlistc=\count422
-\c@listd=\count423
-\c@savedlistd=\count424
-\c@liste=\count425
-\c@savedliste=\count426
-\c@listf=\count427
-\c@savedlistf=\count428
-\c@location=\count429
-\c@savedlocation=\count430
-\c@organization=\count431
-\c@savedorganization=\count432
-\c@origlocation=\count433
-\c@savedoriglocation=\count434
-\c@origpublisher=\count435
-\c@savedorigpublisher=\count436
-\c@publisher=\count437
-\c@savedpublisher=\count438
-\c@language=\count439
-\c@savedlanguage=\count440
-\c@origlanguage=\count441
-\c@savedoriglanguage=\count442
-\c@pageref=\count443
-\c@savedpageref=\count444
-\shorthandwidth=\skip86
-\shortjournalwidth=\skip87
-\shortserieswidth=\skip88
-\shorttitlewidth=\skip89
-\shortauthorwidth=\skip90
-\shorteditorwidth=\skip91
-\locallabelnumberwidth=\skip92
-\locallabelalphawidth=\skip93
-\localshorthandwidth=\skip94
-\localshortjournalwidth=\skip95
-\localshortserieswidth=\skip96
-\localshorttitlewidth=\skip97
-\localshortauthorwidth=\skip98
-\localshorteditorwidth=\skip99
+\c@afterword=\count365
+\c@savedafterword=\count366
+\c@annotator=\count367
+\c@savedannotator=\count368
+\c@author=\count369
+\c@savedauthor=\count370
+\c@bookauthor=\count371
+\c@savedbookauthor=\count372
+\c@commentator=\count373
+\c@savedcommentator=\count374
+\c@editor=\count375
+\c@savededitor=\count376
+\c@editora=\count377
+\c@savededitora=\count378
+\c@editorb=\count379
+\c@savededitorb=\count380
+\c@editorc=\count381
+\c@savededitorc=\count382
+\c@foreword=\count383
+\c@savedforeword=\count384
+\c@holder=\count385
+\c@savedholder=\count386
+\c@introduction=\count387
+\c@savedintroduction=\count388
+\c@namea=\count389
+\c@savednamea=\count390
+\c@nameb=\count391
+\c@savednameb=\count392
+\c@namec=\count393
+\c@savednamec=\count394
+\c@translator=\count395
+\c@savedtranslator=\count396
+\c@shortauthor=\count397
+\c@savedshortauthor=\count398
+\c@shorteditor=\count399
+\c@savedshorteditor=\count400
+\c@labelname=\count401
+\c@savedlabelname=\count402
+\c@institution=\count403
+\c@savedinstitution=\count404
+\c@lista=\count405
+\c@savedlista=\count406
+\c@listb=\count407
+\c@savedlistb=\count408
+\c@listc=\count409
+\c@savedlistc=\count410
+\c@listd=\count411
+\c@savedlistd=\count412
+\c@liste=\count413
+\c@savedliste=\count414
+\c@listf=\count415
+\c@savedlistf=\count416
+\c@location=\count417
+\c@savedlocation=\count418
+\c@organization=\count419
+\c@savedorganization=\count420
+\c@origlocation=\count421
+\c@savedoriglocation=\count422
+\c@origpublisher=\count423
+\c@savedorigpublisher=\count424
+\c@publisher=\count425
+\c@savedpublisher=\count426
+\c@language=\count427
+\c@savedlanguage=\count428
+\c@origlanguage=\count429
+\c@savedoriglanguage=\count430
+\c@pageref=\count431
+\c@savedpageref=\count432
+\shorthandwidth=\skip83
+\shortjournalwidth=\skip84
+\shortserieswidth=\skip85
+\shorttitlewidth=\skip86
+\shortauthorwidth=\skip87
+\shorteditorwidth=\skip88
+\locallabelnumberwidth=\skip89
+\locallabelalphawidth=\skip90
+\localshorthandwidth=\skip91
+\localshortjournalwidth=\skip92
+\localshortserieswidth=\skip93
+\localshorttitlewidth=\skip94
+\localshortauthorwidth=\skip95
+\localshorteditorwidth=\skip96
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1129,19 +1064,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count445
-\c@textcitetotal=\count446
-\c@textcitemaxnames=\count447
-\c@biburlbigbreakpenalty=\count448
-\c@biburlbreakpenalty=\count449
-\c@biburlnumpenalty=\count450
-\c@biburlucpenalty=\count451
-\c@biburllcpenalty=\count452
-\biburlbigskip=\muskip18
-\biburlnumskip=\muskip19
-\biburlucskip=\muskip20
-\biburllcskip=\muskip21
-\c@smartand=\count453
+\c@textcitecount=\count433
+\c@textcitetotal=\count434
+\c@textcitemaxnames=\count435
+\c@biburlbigbreakpenalty=\count436
+\c@biburlbreakpenalty=\count437
+\c@biburlnumpenalty=\count438
+\c@biburlucpenalty=\count439
+\c@biburllcpenalty=\count440
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count441
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
@@ -1166,8 +1101,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count454
-\c@bbx:relatedtotal=\count455
+\c@bbx:relatedcount=\count442
+\c@bbx:relatedtotal=\count443
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
@@ -1180,10 +1115,10 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-co
 mp.cbx
 File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count456
-\c@cbx@tempcntb=\count457
-\c@cbx@tempcntc=\count458
-\c@cbx@tempcntd=\count459
+\c@cbx@tempcnta=\count444
+\c@cbx@tempcntb=\count445
+\c@cbx@tempcntc=\count446
+\c@cbx@tempcntd=\count447
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1217,53 +1152,53 @@ Package biblatex Info: ... and expl3
 .sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 )))
-\@quotelevel=\count460
-\@quotereset=\count461
+\@quotelevel=\count448
+\@quotereset=\count449
 LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input li
-ne 93.
+ne 91.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/lato\t1lato-tlf.fd
 File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 93.
+(Font)              scaled to size 10.0pt on input line 91.
 
 (MyResume.aux)
 \openout1 = `MyResume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count462
-\scratchdimen=\dimen290
-\scratchbox=\box86
-\nofMPsegments=\count463
-\nofMParguments=\count464
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count465
-\MPscratchDim=\dimen291
-\MPnumerator=\count466
-\makeMPintoPDFobject=\count467
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count450
+\scratchdimen=\dimen281
+\scratchbox=\box84
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen282
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks46
 )
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1275,7 +1210,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 91.
  (MyResume.out) (MyResume.out)
 \@outlinefile=\write6
 \openout6 = `MyResume.out'.
@@ -1315,8 +1250,8 @@ Package hyperref Info: Link coloring OFF on input line 93.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count468
-\c@mv@boldtabular=\count469
+\c@mv@tabular=\count456
+\c@mv@boldtabular=\count457
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1333,20 +1268,20 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MyResume.bbl' not found.
 
 No file MyResume.bbl.
-Package biblatex Info: Reference section=0 on input line 93.
-Package biblatex Info: Reference segment=0 on input line 93.
+Package biblatex Info: Reference section=0 on input line 91.
+Package biblatex Info: Reference segment=0 on input line 91.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 127.
+(Font)              scaled to size 24.88pt on input line 125.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 127.
+(Font)              scaled to size 24.88pt on input line 125.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 127.
+(Font)              scaled to size 12.0pt on input line 125.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 127.
+(Font)              scaled to size 12.0pt on input line 125.
 ! Undefined control sequence.
 \makecvheader ...nefont \color {tagline}\@tagline 
                                                   \par } \medskip {\personal...
-l.127 \makecvheader
+l.125 \makecvheader
                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1355,63 +1290,76 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 127.
+(Font)              scaled to size 8.0pt on input line 125.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 127.
+(Font)              scaled to size 8.0pt on input line 125.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 127.
+nput line 125.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree0.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 127.
+nput line 125.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 127.
+nput line 125.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 127.
+ input line 125.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 127.
+n input line 125.
 
-Underfull \hbox (badness 3428) in paragraph at lines 127--127
+Underfull \hbox (badness 3428) in paragraph at lines 125--125
 [][] [] [] [] 
  []
 
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 125.
+<<omx.cmap>>
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 125.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 141.
+(Font)              scaled to size 17.28pt on input line 139.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 141.
+(Font)              scaled to size 17.28pt on input line 139.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 142.
+(Font)              scaled to size 10.0pt on input line 140.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 142.
+(Font)              scaled to size 9.0pt on input line 140.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 144.
+ine 142.
 
 (C:\Users\chahi\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 144.
+(Font)              scaled to size 9.0pt on input line 142.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 144.
+(Font)              scaled to size 9.0pt on input line 142.
 
-Overfull \hbox (1.10986pt too wide) in paragraph at lines 154--155
+Overfull \hbox (1.10986pt too wide) in paragraph at lines 152--153
 []\T1/lato-TLF/m/n/9 Offered per-son-al-ized tu-tor-ing ses-sions in a va-ri-et
 y of high school 
  []
 
+
+Overfull \hbox (1.01532pt too wide) in paragraph at lines 195--196
+[]\T1/lato-TLF/m/n/9 Created a pack-age of 4 dif-fer-ent Tur-ing Ma-chine us-in
+g the YAML 
+ []
+
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 196.
 [1
 
 {C:/Users/chahi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_cl4kdn.enc
@@ -1432,23 +1380,27 @@ Package logreq Info: Writing requests to 'MyResume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40857 strings out of 475248
- 809102 string characters out of 5757812
- 1962785 words of memory out of 5000000
- 61734 multiletter control sequences out of 15000+600000
- 827558 words of font info for 68 fonts, out of 8000000 for 9000
+ 40199 strings out of 475248
+ 800317 string characters out of 5757812
+ 1965785 words of memory out of 5000000
+ 61078 multiletter control sequences out of 15000+600000
+ 829379 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,7n,121p,1135b,2462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,7n,121p,1135b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/chahi/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
 /FontAwesome5Brands-Regular.pfb><C:/Users/chahi/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/chahi/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Sol
 id.pfb><C:/Users/chahi/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/
 Lato-Bold.pfb><C:/Users/chahi/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
-d/lato/Lato-Regular.pfb>
-Output written on MyResume.pdf (1 page, 149596 bytes).
+d/lato/Lato-Regular.pfb><C:/Users/chahi/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb><C:/Users/chahi/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/chahi/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/chahi/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on MyResume.pdf (1 page, 180953 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

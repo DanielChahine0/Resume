@@ -46,7 +46,6 @@
 \RequirePackage{ifxetex,ifluatex}
 \RequirePackage{scrlfile}
 \RequirePackage{xparse}
-\usepackage{amsmath}
 
 %% v1.1.5: added for convenience
 \newif\ifxetexorluatex
